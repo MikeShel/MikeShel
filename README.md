@@ -9,7 +9,7 @@ Thank you for your attention to my profile! I hope you like my work! 😊
 
 Skills: С++ Python
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@risingskill67)
 
 
 
