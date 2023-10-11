@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is MikeShel
 
-<!--
-**MikeShel/MikeShel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I graduated from the university in the field of information security and now work in a large oil company as a software engineer. I can program in C++ and Python and am fond of game design. I have been developing in the world of blockchain and cryptocurrencies for a long time and am interested in new technologies and opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my github profile you can find my projects and works related to different topics and areas. I am always glad for feedback and cooperation. You can contact me via github or by email.
+
+Thank you for your attention to my profile! I hope you like my work! 😊
+
+Skills: С++ Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
