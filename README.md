@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is MikeShel
-
+![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 I graduated from the university in the field of information security and now work in a large oil company as a software engineer. I can program in C++ and Python and am fond of game design. I have been developing in the world of blockchain and cryptocurrencies for a long time and am interested in new technologies and opportunities.
 
@@ -9,6 +9,7 @@ Thank you for your attention to my profile! I hope you like my work! 😊
 
 My work: 
 Android game for Aleo: https://www.youtube.com/watch?v=uvVx2F1A6cs&t
+
 Telegram bot for Aleo: https://www.youtube.com/watch?v=TSAUNfcyTBU&t
 
 Skills: C++ Python
