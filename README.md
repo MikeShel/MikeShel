@@ -8,9 +8,9 @@ On my github profile you can find my projects and works related to different top
 Thank you for your attention to my profile! I hope you like my work! 😊
 
 My work: 
-Android game for Aleo: https://www.youtube.com/watch?v=uvVx2F1A6cs&t
+Android game for Aleo: https://www.youtube.com/watch?v=xRCUn4gGsgs
 
-Telegram bot for Aleo: https://www.youtube.com/watch?v=TSAUNfcyTBU&t
+Telegram bot for Aleo: https://www.youtube.com/watch?v=w1hTXzAUZaM
 
 Skills: C++ Python
 
